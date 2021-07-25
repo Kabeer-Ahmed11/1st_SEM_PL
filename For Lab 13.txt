@@ -1,0 +1,3 @@
+https://learn.sparkfun.com/tutorials/python-gui-guide-introduction-to-tkinter/tkinter-overview
+
+https://www.python-course.eu/python_tkinter.php
